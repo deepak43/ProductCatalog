@@ -1,0 +1,15 @@
+Unit test cases:
+
+For ProductController:
+
+1. Unit test for getting all products when there are no products
+2. Unit test for getting all products when there are few products
+3. Unit test for getting all products with valid brand id and invalid brand id
+4. Unit test for getting all products with valid color and invalid color
+5. Unit test for getting all products with valid and invalid size
+6. Unit test for getting all products with valid color and invalid price
+
+For SellerProductController:
+
+1. Unit test for getting number of units for a valid and invalid seller id
+2. Unit test for getting number of units for a valid and invalid sku values

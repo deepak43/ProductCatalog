@@ -1,0 +1,23 @@
+1. To get all products:
+/products/
+
+2. To get all products for a brand
+/products/brand/{brandId}
+
+3. To get all products with price greater than provided value
+/products/pricegt/{price}
+
+4. To get all products with price less than provided value
+/products/pricelt/{price}
+
+5. To get all products for a coloraturas
+/products/color/{color}
+
+6. To get all products for a size
+/products/size/{size}
+
+7. To get no of units of products for given seller
+/totalunits/{sellerId}
+
+8. To get no of units of products for given sku
+/totalunits/{sku}
